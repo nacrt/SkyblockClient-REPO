@@ -20,6 +20,6 @@ If you know how to fix it, make a PR with the fixed version.
 #### Examples 
 > Good: "Looks like patcher is one update past stable release""\
 > Bad: "fix your horrible code in all of the files"  <br></br>
-## How to add my mod to Skyblock Clien't?
+## How to add my mod to Skyblock Client?
 > Quote from discord:
 > "if you want a mod to be added write a lengthy article on why it should be added, where to get it and how it is related to hypixel/hypixel skyblock/broader pvp and why its helpful"
